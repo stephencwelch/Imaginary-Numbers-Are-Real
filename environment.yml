@@ -1,4 +1,4 @@
-name: welshlabs
+name: welchlabs
 channels:
   - defaults
 dependencies:
